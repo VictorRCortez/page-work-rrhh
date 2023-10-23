@@ -1,1 +1,4 @@
-/* Estilo personalizado para agregar margen superior al contenido */
+/* Estilo personalizado*/
+body {
+    padding-top: 6rem;
+}
